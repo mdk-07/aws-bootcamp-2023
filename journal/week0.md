@@ -13,5 +13,9 @@
 
 ## Todo Checklist:
 - [x] Watched Week 0 - Live Streamed Video https://www.youtube.com/watch?v=SG8blanhAOg&list=PLBfufR7vyJJ7k25byhRXJldB5AiwgNnWv&index=12
-* Watched Chirag's Week 0 - Spend Considerations
+* Watched Chirag's Week 0 - Spend Considerations https://www.youtube.com/watch?v=OVw3RrlP-sI&list=PLBfufR7vyJJ7k25byhRXJldB5AiwgNnWv&index=13
+  ### Learned:
+* 2 ways to set up billing alerts (old way: using "Manage Billing alerts" -> Alarms -> In alarm -> Create alarm -> Select metric -> Billing -> Total estimated charges vs new way using "Billing preferences")
+
+
 * Watched Ashish's Week 0 - Security Considerations
