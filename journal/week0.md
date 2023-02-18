@@ -18,7 +18,8 @@
 - [ ] Conceptual Diagram using Lucid charts: https://lucid.app/lucidchart/c9673234-83e0-49fb-8ce7-3f9d5168bf92/edit?viewport_loc=536%2C-53%2C1935%2C1026%2C0_0&invitationId=inv_604c39f1-2ddc-46b6-a221-75eb09c70740
 
 <img width="639" alt="Conceptual_Diagram__Lucidchart" src="https://user-images.githubusercontent.com/123130488/219877587-9f087952-2dc5-491d-8075-a273fd6d5488.png">
-![Hyper](https://user-images.githubusercontent.com/123130488/219877595-b1c0de74-f667-486d-aa56-9f22d27a434f.png)
+
+![Hyper](https://user-images.githubusercontent.com/123130488/219877682-2d45b87c-b86a-42b3-9df1-426c5f912ef1.png)
 
 
   ### Learned:
