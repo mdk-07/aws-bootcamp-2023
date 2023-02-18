@@ -12,6 +12,6 @@
 
 
 ## Todo Checklist:
-* Watched Week 0 - Live Streamed Video https://www.youtube.com/watch?v=SG8blanhAOg&list=PLBfufR7vyJJ7k25byhRXJldB5AiwgNnWv&index=12
+- [x] Watched Week 0 - Live Streamed Video https://www.youtube.com/watch?v=SG8blanhAOg&list=PLBfufR7vyJJ7k25byhRXJldB5AiwgNnWv&index=12
 * Watched Chirag's Week 0 - Spend Considerations
 * Watched Ashish's Week 0 - Security Considerations
